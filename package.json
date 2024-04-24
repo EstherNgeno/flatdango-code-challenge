@@ -1,0 +1,14 @@
+{
+  "name": "flatdango-code-challenge",
+  "version": "1.0.0",
+  "description": " Flatdango application allows a user to purchase movie tickets from the theater.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esther Ngeno",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
